@@ -1,3 +1,27 @@
+<img align="center" style='position: fixed' width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_FURG_institucional.png/598px-Logo_FURG_institucional.png" />
+<div align="center">
+<img align="center" width=350 src="http://www.c3.furg.br/images/logoP.png" />
+</div>
+
+
+### <div align="center">Autores</div>
+
+### <div align="center">Thomaz Colalillo Navajas - 140560</div>
+<div style="display: inline_block", align="center">
+    <a href = "mailto:thomaznavajas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="www.linkedin.com/in/thomaz-navajas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://github.com/NavajasThomaz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+### <div align="center">Flávia Cristina G. dos Passos - 157378</div>
+<div style="display: inline_block", align="center">
+    <a href = "mailto:Flavia.cristinagpassos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="www.linkedin.com/in/flavia-cristina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://github.com/Flaviacristinagpassos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+
+
 # Cloud-Verse (logo)
 
 1. **Arquivo base.html**
