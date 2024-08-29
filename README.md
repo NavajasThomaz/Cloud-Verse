@@ -176,7 +176,8 @@
   </body>
 </html>
 ```
-
+2. **Arquivo index.html**
+    - É basicamente a nossa Homepage, a página inicial da nossa aplicação web, também uma página de autenticação, onde os usuários podem tanto fazer login quanto registrar-se
 
 ```html 
 <!-- index.html -->
